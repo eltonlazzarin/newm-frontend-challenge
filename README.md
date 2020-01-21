@@ -1,8 +1,26 @@
 <h1 align="center">
-    Prova NewM Frontend
+    <img alt="" src="" />
+    <br>
+    NewM Frontend Challenge
 </h1>
 
-### :rocket: Tecnoligias Utilizadas
+<h4 align="center">
+  This project was developed in ReactJS and consists of create, show, edit and delete clients.
+</h4>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/newm-frontend-challenge">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/newm-frontend-challenge">
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/newm-frontend-challenge">
+
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/newm-frontend-challenge">
+
+  <img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" alt="Styled-Components">
+
+### :rocket: Frontend Technologies (WebApp)
+
+<img alt="Github Search Page" src="https://github.com/eltonlazzarin/newm-frontend-challenge/blob/master/screenshots/pagesframes.gif">
 
 - [ReactJS](https://reactjs.org/)
 - [React Router v5](https://github.com/ReactTraining/react-router)
@@ -10,23 +28,28 @@
 - [styled-components](https://www.styled-components.com/)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
-## :information_source: Como Instalar
+## :information_source: How To Use
 
 ```bash
-# Descompacte o arquivo newm-frontend-challenge.zip
+# Clone this repository
+$ git clone https://github.com/eltonlazzarin/newm-frontend-challenge.git
 
-# Vá para o diretório
+# Go into the repository
 $ cd newm-frontend-challenge
 
-# Instale as dependências
+# Install dependencies
 $ yarn
 
-# Renomeie o arquivo file.env para .env
+# Rename the file.env to .env
 
-# Inicialize o projeto
+# Run the app
 $ yarn start
-
-# Aguardar até uma nova página abrir em seu navegar padrão com o projeto inicializado
 ```
+
+### :memo: License
+
+This project is under the MIT license.
+
+---
 
 Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
