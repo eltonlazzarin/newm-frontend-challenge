@@ -46,7 +46,7 @@ $ yarn
 $ yarn start
 ```
 
-### :memo: License
+## :memo: License
 
 This project is under the MIT license.
 
